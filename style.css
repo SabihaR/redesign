@@ -1,0 +1,29 @@
+.row1{
+    height: 50px;
+    border-color: black;
+    border-style: solid;
+    
+}
+
+.row2{
+    height: 450px;
+    border-color: red;
+    border-style: solid;
+}
+
+.row3{
+    height: 100px;
+    border-color: blue;
+    border-style: solid;
+}
+
+.border{
+    height: 450px;
+    border-right: solid;
+    border-color: silver;
+}
+.border1{
+    height: 100px;
+    border-right: solid;
+    border-color: silver;
+}
